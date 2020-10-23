@@ -9,10 +9,7 @@
     "ts-node": "ts-node"
   },
   "keywords": [
-    "ast",
-    "dead CSS code",
-    "dead JS code",
-    "csstree"
+    "codegeneration", "reactjs", "nodejs", "architecture", "strategy pattern"
   ],
   "author": "taksenov@gmail.com",
   "license": "MIT",
